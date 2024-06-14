@@ -1,6 +1,6 @@
 
-export const DOMAIN = 'http://localhost:3000';
-// export const DOMAIN = 'https://www.vinlandsagamanga.in.net';
+// export const DOMAIN = 'http://localhost:3000';
+export const DOMAIN = 'https://www.sololevelingmanga.in.net';
 
 
 export const MANGA_DESCRIPTION = `<a href="${DOMAIN}"><u>Solo Leveling</u></a> is a thrilling South Korean web novel turned manga that follows the story of Sung Jin-Woo, an E-rank hunter who gains the ability to level up like a game character after surviving a deadly dungeon. As he grows stronger, he faces increasingly dangerous dungeons and monsters, uncovering dark secrets along the way. With intense action scenes and a compelling storyline, it keeps readers hooked with its mix of fantasy, adventure, and mystery.`
