@@ -31,7 +31,7 @@ export const logo = <img src={`${LOGO_URL}`} alt="Logo" className="h-[70px] w-[1
 export const APP_NAME = 'Solo Leveling';
 export const NavbarName = "Solo Leveling";
 
-export const APP_DESCRIPTION = `Read "${MANGA_NAME}" manga online at "${DOMAIN}". Enjoy high-quality scans, latest chapters, and connect with fans in our vibrant community. Dive into the epic Viking adventure today!`;
+export const APP_DESCRIPTION = `Read "${MANGA_NAME}" manga online at ${DOMAIN}. Enjoy high-quality scans, latest chapters, and connect with fans in our vibrant community. Dive into the epic Viking adventure today!`;
 
 export const DISQUS_SHORTNAME = "my-cms-7";
 
