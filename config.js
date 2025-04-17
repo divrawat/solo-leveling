@@ -3,7 +3,7 @@ export const DOMAIN = 'https://thesololevelingmanga.online';
 
 export const DOMAIN_NAME = 'thesololevelingmanga.online';
 
-export const IMAGES_SUBDOMAIN = 'https://images.mangachimp.com/solo-leveling';
+export const IMAGES_SUBDOMAIN = 'https://images.thesololevelingmanga.online/solo-leveling';
 export const IMAGES_SUBDOMAIN_LOGO = 'https://images.mangachimp.com';
 
 // export const MANGA_DESCRIPTION0 = `<a href="${DOMAIN}"><u>Vinland Saga</u></a>`;
