@@ -1,4 +1,4 @@
 user-agent: *
 Disallow: /admin/
 
-Sitemap: https://thesololevelingmanga.online/sitemap.xml
+Sitemap: https://manga.thesololevelingmanga.online/sitemap.xml

@@ -1,7 +1,7 @@
 // export const DOMAIN = 'http://localhost:3000';
-export const DOMAIN = 'https://thesololevelingmanga.online';
+export const DOMAIN = 'https:/manga.thesololevelingmanga.online';
 
-export const DOMAIN_NAME = 'thesololevelingmanga.online';
+export const DOMAIN_NAME = 'manga.thesololevelingmanga.online';
 
 export const IMAGES_SUBDOMAIN = 'https://images.thesololevelingmanga.online/solo-leveling';
 export const IMAGES_SUBDOMAIN_LOGO = 'https://images.mangachimp.com';
@@ -67,7 +67,7 @@ export const MANGA_SUMMARY = [
 
 
 export const navLinks = [
-    // { text: 'Jinx Manga', href: `https://www.secretclass.in.net/` },
+    //{ text: 'Jinx Manga', href: `https://www.secretclass.in.net/` },
     { text: 'Chapter 1', href: `${DOMAIN}/chapter-1` },
     { text: 'Chapter 10', href: `${DOMAIN}/chapter-10` },
     { text: 'Chapter 40', href: `${DOMAIN}/chapter-40` },
